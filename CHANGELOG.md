@@ -2,10 +2,132 @@
 
 ## WIP
 
+- Fixed support for poetry (via @ameyuuno)
+- Added support for npm package npmrc (via @jdvivar)
+- Added support for rubiTrack 5 (via @otherguy)
+- Updated support for Fisher (via @kidonng)
+- Added support for Qv2ray (via @kidonng)
+- Added support for Neofetch (via @kidonng)
+- Added support for PsySH (via @nesk)
+
+## Mackup 0.8.32
+
+- Fixed an issue due to a duplicate entry in the intellijidea config
+- Added support for Visual Studio for Mac version 8 (via @Qythyx)
+
+## Mackup 0.8.31
+
+- Fixed an issue due to a duplicate entry in the webstorm config
+
+## Mackup 0.8.30
+
+- Added support for SpaceVim (via @ionlights)
+- Added support for clashX (via @awkj)
+- Added support for Brave (via @cbenv)
+- Added support for Nushell (via @leesiongchan)
+- Updated support for Clipy (via @jclerc)
+- Added support for aerc (via @Crocmagnon)
+- Added support for espanso (via @maxandersen)
+- Added support for lazygit (via @joshmedeski)
+- Added support for WebStorm versions 2019.4, 2020.2, 2020.3, 2020.4 (via @bdcarr)
+- Added support for draft (via @dfang)
+- Added support for lf (via @joshmedeski)
+- Added support for Beets (via @publicarray)
+- Added support for Krew (via @exherb)
+- Added support for Homebrew (via @exherb)
+- Added support for PyCharm versions 2020.2, 2020.3, 2020.4 (via @ameyuuno)
+- Added support for Netlify (via @pgilad)
+- Added support for K9s (via @tareksamni)
+- Added support for Powerlevel10k (via @tareksamni)
+- Updated support for aria2 (via @hongqn)
+- Update support for IntelliJ (via @scooby)
+- Added support for zoxide (via @kidonng)
+- Added support for Raycast (via @janniks)
+
+## Mackup 0.8.29
+
+- Added support for waybar (via @mk-atlassian)
+- Added support for mako (via @mk-atlassian)
+- Added support for Swaywm (via @mk-atlassian)
+- Added support for termite (via @mk-atlassian)
+- Added support for Calibre (via @ttuygun @bodak)
+- Added support for Poetry (via @ryoppippi)
+- Added support for Music (via @dnicolson)
+- Added support for Kaggle (via @ryoppippi)
+- Added support for SBT 1.0 (via @austek)
+- Added support for FiloSottile/mkcert (via @paxperscientiam)
+- Added support for Finicky (via @ryoppippi)
+- Added support for GoodSync (via @cereallarceny)
+- Added support for mitmproxy (via @etiennelb)
+- Added support for Hocus Focus (via @jrolfs)
+- Added support for TripMode (via @ttuygun)
+- Added support for Starship (via @callummr)
+- Added support for Joplin (via @geekrainy)
+- Added support for iStat Menus 6 and unified config files (via @lumaxis)
+- Added the `--root` command line option
+- Removed support for Sketch
+- Added support for PyCharm 2020.1 (via @ameyuuno)
+- Added support for Powerline (via @ho-oto)
+- Added support for Yarn (via @dhb52)
+- Add support for Quitter (via @guillaumealgis)
+
+## Mackup 0.8.28
+
+- Added support for Bat (via @joshmedeski)
+- Added support for newer versions of WebStorm
+- Updated support for Marta to capture new config files in 0.6.1 (via @petrbouchal)
+- Added support for Rectangle (via @arvindch)
+- Added support for BitBar (via @dnicolson)
+- Added support for JS Beautifier (via @dnicolson)
+- Added support for ripgrep (via @dnicolson)
+- Added support for Bump (via @dnicolson)
+- Added support for rclone (via @dnicolson)
+- Added support for NoSQLBooster for MongoDB (via @ivan-ha)
+- Updated support for RStudio, config stored in JSON as of v1.3.776 (via @petrbouchal)
+- Vulnerability fix
+- Removed support for Python 3.5
+- Removed support for the Box storage
+- Fix: suppress errors when handling symlinks (via @doubleloop)
+- Migrated all config files to the XDG format
+- Add support for Python 3.8
+
+## Mackup 0.8.27
+
+- Added support for SpaceLauncher (via @joshmedeski)
+- Added support for Dejal Time Out
+- Add support for PhpStorm 2019.2
+- Migrated build system to pipenv
+- Replaced flake8 with black to enforce code formatting
+- Add support for proselint (via @paxperscienitam)
+- Add support for ToothFairy scripts (via @dnicolson)
+- Add support for TablePlus (via @alekseyp)
+- Add support for Startupizer2 (via @narze)
+- Added support for pnpm (@via paxperscientiam)
+- Added partial support for Gimp (via @paxperscientiam)
+
+## Mackup 0.8.26
+
+- Hotfix, Mackup could not run in most scenarios
+
+## Mackup 0.8.25
+
+- Add support for yabai (via @mbdmbd)
 - Improve support for Little Snitch (via @lorenzofanchi)
+- Improve support for Photoshop CC 2019 (via @lorenzofanchi)
+- Add support for ColorSlurp (via @lorenzofanchi)
+- Add support for Secure Pipes (via @lorenzofanchi)
+- Add support for Xee (via @lorenzofanchi)
+- Add support for 2Do (via @lorenzofanchi)
+- Add support for Shifty (via @lorenzofanchi)
+- Add support for Pock (via @lorenzofanchi)
+- Add support for Multitouch (via @lorenzofanchi)
+- Add support for Magnet (via @lorenzofanchi)
 - Added support for git ignore file
 - Added default ignore file for eslint
 - Improve support for Vim, add .vim/spell folder
+- Add support for mycli
+- Add support for PixelSnap 2 (via @dnicolson)
+- Add support for PDFjam (via @paxperscientiam)
 
 ## Mackup 0.8.24
 
